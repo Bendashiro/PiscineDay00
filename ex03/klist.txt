@@ -1,0 +1,5 @@
+Credentials cache: API:C5367C16-9DB9-4CDB-939F-FEDB6A169F28
+        Principal: hibenfet@S19.BE
+
+  Issued                Expires               Principal
+Jul  1 15:09:08 2019  Jul  2 01:08:57 2019  krbtgt/S19.BE@S19.BE
